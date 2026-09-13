@@ -1,1 +1,7 @@
 initial-test/
+slave.bin
+slave.hex
+slave.o
+master.o
+master.hex
+master.bin
